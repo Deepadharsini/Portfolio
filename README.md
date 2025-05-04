@@ -7,10 +7,9 @@ A modern, responsive, and animated personal portfolio website built using the **
 - 🎨 Clean, minimal UI with beautiful transitions
 - 💻 Built with React + Tailwind CSS
 - 🧭 React Router-based navigation
-- 📱 Fully responsive for mobile/tablet/desktop
-- 🌟 Highlights resume, skills, education, and projects
+- 🌟 Highlights skills, education, and projects
 - 🔗 Direct links to live projects and GitHub repos
-- 📬 Contact section with email/social links
+- 📬 Contact section with email
 
 ## 🛠️ Tech Stack
 
