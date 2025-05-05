@@ -86,7 +86,7 @@ const About = () => {
               <span>GitHub</span>
             </a>
             <a
-              href={import.meta.env.VITELEETCODE || '#'}
+              href={import.meta.env.VITE_LEETCODE || '#'}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white/70 hover:text-white transition-colors duration-300"
